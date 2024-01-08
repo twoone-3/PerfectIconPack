@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>1</version>
+
+    <category title="Most used" />
+    <item drawable="qq" />
+    <item drawable="bcz" />
+    <item drawable="cainiao" />
+    <item drawable="college_search" />
+
+</resources>

@@ -1,0 +1,29 @@
+buildscript {
+    repositories {
+        mavenCentral()
+        google()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.1.1'
+    }
+}
+
+allprojects {
+    repositories {
+        mavenCentral()
+        google()
+        maven { url 'https://jitpack.io' }
+        maven { url 'https://maven.google.com' }
+    }
+
+    rootProject.ext {
+        MinSdk = 26
+        TargetSdk = 33
+        CompileSdk = 33
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
