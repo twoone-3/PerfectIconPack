@@ -98,5 +98,8 @@
     <color name="white">#FFFFFF</color>
     <color name="bcz">#003BD4</color>
     <color name="cainiao">#006EFF</color>
+    <color name="ele">#02B6FD</color>
+    <color name="hyperion">#70E2FF</color>
+    <color name="idlefish">#FFE60F</color>
 
 </resources>

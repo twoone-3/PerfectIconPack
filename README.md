@@ -1,16 +1,19 @@
-# CandyBar Sample
-[![JitPack Version](https://jitpack.io/v/zixpo/candybar.svg)](https://jitpack.io/#zixpo/candybar)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/zixpo/candybar-sample/android.yml?branch=main)](https://github.com/zixpo/candybar-sample/actions/workflows/android.yml)
+# Perfect Icon Pack
+完美图标包，使用[candybar](https://github.com/zixpo/candybar-sample)制作的现代图标包
 
-Sample Implementation of CandyBar Dashboard.
-f
-Read the [Wiki](https://github.com/zixpo/candybar-sample/wiki) to get Started.
+# 设计理念
+由于部分国产应用(China)仍然使用 Android 7.1 (target < 26) 的图标，因此这些软件在新版Android启动器上的表现并不好，而全网貌似没有相关的项目，故有了此项目
+
+如果你喜欢本项目，请点击star~，Thanks！
+
+# 鸣谢
+部分图标素材取自 https://github.com/pzcn/Perfect-Icons-Completion-Project
 
 # License
 ```
 Copyright (c) 2014-2016 Dani Mahardhika
 
-Licensed under the Apache License, Version 2.0 (the "License");
+Licensed under the Apache License, Version 2.0 (the  "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 

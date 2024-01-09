@@ -22,6 +22,13 @@
     <item component="ComponentInfo{com.jiongji.andriod.card/com.baicizhan.main.activity.LoadingPageActivity}" drawable="bcz"/>
     <item component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.view.activity.WelcomeActivity}" drawable="cainiao"/>
     <item component="ComponentInfo{com.zmzx.college.search/com.zmzx.college.search.activity.init.InitActivity}" drawable="college_search"/>
+    <item component="ComponentInfo{me.ele/me.ele.Launcher}" drawable="ele"/>
+    <item component="ComponentInfo{com.autonavi.minimap/com.autonavi.map.activity.SplashActivity}" drawable="gaode"/>
+    <item component="ComponentInfo{com.mihoyo.hyperion/com.mihoyo.hyperion.splash.SplashActivity}" drawable="hyperion"/>
+    <item component="ComponentInfo{com.taobao.idlefish/com.taobao.fleamarket.home.activity.InitActivity}" drawable="idlefish"/>
+<!--    <item component="ComponentInfo{}" drawable=""/>-->
+<!--    <item component="ComponentInfo{}" drawable=""/>-->
+<!--    <item component="ComponentInfo{}" drawable=""/>-->
 <!--    <item component="ComponentInfo{}" drawable=""/>-->
 
 </resources>
