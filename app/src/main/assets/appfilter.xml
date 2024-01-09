@@ -26,8 +26,9 @@
     <item component="ComponentInfo{com.autonavi.minimap/com.autonavi.map.activity.SplashActivity}" drawable="gaode"/>
     <item component="ComponentInfo{com.mihoyo.hyperion/com.mihoyo.hyperion.splash.SplashActivity}" drawable="hyperion"/>
     <item component="ComponentInfo{com.taobao.idlefish/com.taobao.fleamarket.home.activity.InitActivity}" drawable="idlefish"/>
-<!--    <item component="ComponentInfo{}" drawable=""/>-->
-<!--    <item component="ComponentInfo{}" drawable=""/>-->
+    <item component="ComponentInfo{com.mi.health/com.xiaomi.fitness.login.SplashActivity}" drawable="mi_health"/>
+    <item component="ComponentInfo{com.chaoxing.mobile/com.chaoxing.mobile.activity.SplashActivity}" drawable="chaoxing"/>
+    <item component="ComponentInfo{com.unionpay/com.unionpay.activity.UPActivityMain}" drawable="unionpay"/>
 <!--    <item component="ComponentInfo{}" drawable=""/>-->
 <!--    <item component="ComponentInfo{}" drawable=""/>-->
 

@@ -11,5 +11,8 @@
     <item drawable="gaode" />
     <item drawable="hyperion" />
     <item drawable="idlefish" />
+    <item drawable="mi_health" />
+    <item drawable="chaoxing" />
+    <item drawable="unionpay" />
 
 </resources>
