@@ -46,7 +46,7 @@
         CONFIG: HOME
     -->
     <!-- Home title. This will be shown in the home page -->
-    <string name="home_title">CandyBar Sample</string>
+    <string name="home_title">Perfect Icon</string>
 
     <!-- Home image
         If you want to use an image from url, just put the url here
@@ -122,14 +122,14 @@
 
     <!-- Navigation view header text
         Leave empty if you don't want to show any text -->
-    <string name="navigation_view_header_title">CandyBar</string>
+    <string name="navigation_view_header_title"></string>
 
 
     <!--
         CONFIG: APPLY
     -->
     <!-- Enable or disable apply section -->
-    <bool name="enable_apply">true</bool>
+    <bool name="enable_apply">false</bool>
 
 
     <!--
@@ -154,7 +154,7 @@
         CONFIG: ICON REQUEST
     -->
     <!-- Enable or disable regular icon request -->
-    <bool name="enable_icon_request">true</bool>
+    <bool name="enable_icon_request">false</bool>
 
     <!-- Enable regular icon request limit
         When enabled users will be able to request only the specified number of icons.
@@ -183,7 +183,7 @@
         In premium request, your users will purchase a premium request product (which you specify in the "License.java" file)
         Later they can use the premium request product to do premium icon request.
         It's something like, paying a sum of money for getting requested icons faster. -->
-    <bool name="enable_premium_request">true</bool>
+    <bool name="enable_premium_request">false</bool>
 
     <!-- Enable the option to "Restore Purchases" in Settings section of the app.
         It would be best if you set it to `false`, because it's known that some
@@ -214,7 +214,7 @@
     <!-- Email to use when sending icon requests.
         Regular request email address will be used to send bug reports.
         You can leave "premium_request_email" empty to use the regular request's email to send premium icon requests. -->
-    <string name="regular_request_email">youremail@example.com</string>
+    <string name="regular_request_email">twoone3141@gmail.com</string>
     <string name="premium_request_email"></string>
 
     <!-- Icon request email subjects. Leave empty to use default Subject. -->
@@ -241,7 +241,7 @@
         Now when "Wallpaper" section is selected in your icon pack app's navigation drawer,
         your wallpaper app will be launched if it's installed. If it's not installed, then the Play Store page
         will be opened to install your wallpaper app. -->
-    <string name="wallpaper_json">https://zixpo.github.io/candybar-sources/walls_alt.json</string>
+    <string name="wallpaper_json"></string>
 
     <!-- Enable wallpaper downloading
         If disabled, your users will only be able to apply wallpapers from the dashboard.
@@ -302,11 +302,11 @@
         ex: <string-array name="about_social_links"></string-array>
         -->
     <string-array name="about_social_links">
-        <item>your@email.com</item>
+        <item>twoone3141@gmail.com</item>
         <item>https://behance.net/yourusername</item>
         <item>https://dribbble.com/yourusername</item>
         <item>https://facebook.com/yourusername</item>
-        <item>https://github.com/yourusername</item>
+        <item>https://github.com/twoone-3</item>
         <item>https://instagram.com/yourusername</item>
         <item>https://pinterest.com/yourusername</item>
         <item>https://twitter.com/yourusername</item>

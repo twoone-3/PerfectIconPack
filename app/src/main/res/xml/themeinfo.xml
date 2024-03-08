@@ -4,8 +4,8 @@
     <!-- FOR ATOM LAUNCHER -->
 
     <packageName>com.perfect.icon</packageName>
-    <versionName>1.0.0</versionName>
-    <versionCode>100</versionCode>
+    <versionName>1.0.1</versionName>
+    <versionCode>101</versionCode>
     <themeName>Theme Name</themeName>
 
     <!-- Default Component Color -->

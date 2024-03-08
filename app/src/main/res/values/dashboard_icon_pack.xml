@@ -12,8 +12,8 @@
     <string name="developerName">twoone3</string>
     <string name="authorName">twoone3</string>
 
-    <string name="authorLink">http://www.yourlink.com</string>
-    <string name="developer_link">http://www.yourlink.com/</string>
+    <string name="authorLink">https://github.com/twoone-3/</string>
+    <string name="developer_link">https://github.com/twoone-3</string>
 
     <string name="theme_description">Your Icon Pack Description</string>
     <string name="theme_info">Your Icon Pack Description</string>
