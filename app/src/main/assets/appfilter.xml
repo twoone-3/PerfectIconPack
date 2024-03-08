@@ -29,7 +29,8 @@
     <item component="ComponentInfo{com.mi.health/com.xiaomi.fitness.login.SplashActivity}" drawable="mi_health"/>
     <item component="ComponentInfo{com.chaoxing.mobile/com.chaoxing.mobile.activity.SplashActivity}" drawable="chaoxing"/>
     <item component="ComponentInfo{com.unionpay/com.unionpay.activity.UPActivityMain}" drawable="unionpay"/>
-<!--    <item component="ComponentInfo{}" drawable=""/>-->
-<!--    <item component="ComponentInfo{}" drawable=""/>-->
+    <item component="ComponentInfo{com.taobao.taobao/com.taobao.tao.welcome.Welcome}" drawable="taobao"/>
+    <!--    <item component="ComponentInfo{}" drawable=""/>-->
+    <!--    <item component="ComponentInfo{}" drawable=""/>-->
 
 </resources>
