@@ -1,12 +1,12 @@
 # Perfect Icon Pack
 [English](README.md) | [中文](README_zh.md)
 
-A perfect icon pack created using [candybar](https://github.com/zixpo/candybar-sample)
+追求完美的图标包，使用 [candybar](https://github.com/zixpo/candybar-sample) 制作的现代图标包
 
-# Design Philosophy
-Some Chinese applications (China) still use Android 7.1 (target < 26) icons in 2024, which results in poor performance on newer versions of Android launchers. The purpose of this icon pack is to solve this problem.
+# 设计理念
+部分国产应用(China)在2024年仍然使用 Android 7.1 (target < 26) 的图标，因此这些软件在新版 Android 启动器上的表现并不好，这个图标包的目的是为了解决这个问题。
 
-# Examples
+# 示例
 - before:
 
 ![](pictures/example_taobao0.png)
@@ -23,11 +23,11 @@ Some Chinese applications (China) still use Android 7.1 (target < 26) icons in 2
 
 ![](pictures/example_unionpay1.png)
 
-# Usage
-Go to [Releases](https://github.com/twoone-3/PerfectIconPack/releases) to download the latest APK file. After installation, select the icon pack in the launcher.
+# 使用
+前往 [Releases](https://github.com/twoone-3/PerfectIconPack/releases) 下载最新的 apk 文件，安装后在启动器中选择图标包即可。
 
-# Acknowledgements
-Some icon materials are taken from https://github.com/pzcn/Perfect-Icons-Completion-Project
+# 鸣谢
+部分图标素材取自 https://github.com/pzcn/Perfect-Icons-Completion-Project
 
 # License
 ```
