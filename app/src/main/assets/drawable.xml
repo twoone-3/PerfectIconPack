@@ -16,5 +16,6 @@
     <item drawable="unionpay" />
     <item drawable="taobao" />
     <item drawable="leica" />
+    <item drawable="telegram" />
 
 </resources>
