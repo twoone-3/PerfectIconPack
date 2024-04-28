@@ -137,7 +137,7 @@
     -->
     <!-- Enable/disable icons sorting
         Disabling this will improve performance and icons will load faster (because there is no sorting to do) -->
-    <bool name="enable_icons_sort">true</bool>
+    <bool name="enable_icons_sort">false</bool>
 
     <!-- Shows icon's name below the icon, in "Icons" section -->
     <bool name="show_icon_name">true</bool>
@@ -287,8 +287,7 @@
         ex: `<![CDATA[ There are - <b>Bold</b> <i>Italic</i> <u>Underline</u> <a href="url">Link</a> ]]>` -->
     <string name="about_desc">
         <![CDATA[
-            Say something about yourself. <b>You</b> <i>can</i> also use <u>formatted text</u> here.
-            And some <a href="https://example.com">links</a>
+            <a href="https://github.com/twoone-3">My Github Profile</a>
         ]]>
     </string>
 
