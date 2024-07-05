@@ -16,10 +16,8 @@ public class CandyBar extends CandyBarApplication {
     @Override
     public void onCreate() {
         super.onCreate();
-
         // OneSignal Initialization
-        OneSignal.initWithContext(this);
-        OneSignal.setAppId("YOUR_ONESIGNAL_APP_ID_HERE");
+        OneSignal.initWithContext(this, "YOUR_ONESIGNAL_APP_ID");
     }
     */
 
