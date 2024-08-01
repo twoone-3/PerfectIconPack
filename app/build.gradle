@@ -9,8 +9,8 @@ android {
         applicationId 'com.perfect.icon'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 1
-        versionName '1.0'
+        versionCode 3
+        versionName '1.0.2'
 
         // Naming app bundles
         setArchivesBaseName("${parent.name}-v${versionCode}")

@@ -18,5 +18,7 @@
     <item drawable="leica" />
     <item drawable="telegram" />
     <item drawable="alicloud" />
+    <item drawable="easybike" />
+    <item drawable="bili_comic" />
 
 </resources>
