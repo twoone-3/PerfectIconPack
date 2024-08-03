@@ -20,5 +20,7 @@
     <item drawable="alicloud" />
     <item drawable="easybike" />
     <item drawable="bili_comic" />
+    <item drawable="ct_client" />
+    <item drawable="cmb" />
 
 </resources>

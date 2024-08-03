@@ -34,5 +34,7 @@
     <item component="ComponentInfo{com.alicloud.databox/com.alicloud.databox.launcher.splash.SplashActivity}" drawable="alicloud"/>
     <item component="ComponentInfo{com.jingyao.easybike/com.hellobike.atlas.business.portal.PortalActivity}" drawable="easybike"/>
     <item component="ComponentInfo{com.bilibili.comic/com.bilibili.comic.splash.view.activity.SplashActivity}" drawable="bili_comic"/>
+    <item component="ComponentInfo{com.ct.client/com.ct.client.activity.SplashActivity}" drawable="ct_client"/>
+    <item component="ComponentInfo{cmb.pb/cmb.pb.app.mainframe.container.PBMainActivity}" drawable="cmb"/>
 
 </resources>
