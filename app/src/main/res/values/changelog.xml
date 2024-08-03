@@ -9,13 +9,7 @@
     * <u> for Underline
     * <a href="linkUrl">Link Text</a> for links -->
     <string-array name="changelog">
-        <item>First Changelog</item>
-        <item>Second Changelog</item>
-        <item>
-            <![CDATA[
-            Formatted Changelog with <u>Underline</u>, <b>Bold</b>, <i>Italic</i> and <a href="https://your.link.here">Link</a>.
-            ]]>
-        </item>
+        <item>Add 哈啰单车、中国大学MOOC、招商银行、中国电信、哔哩哔哩漫画</item>
     </string-array>
 
 </resources>

@@ -36,5 +36,6 @@
     <item component="ComponentInfo{com.bilibili.comic/com.bilibili.comic.splash.view.activity.SplashActivity}" drawable="bili_comic"/>
     <item component="ComponentInfo{com.ct.client/com.ct.client.activity.SplashActivity}" drawable="ct_client"/>
     <item component="ComponentInfo{cmb.pb/cmb.pb.app.mainframe.container.PBMainActivity}" drawable="cmb"/>
+    <item component="ComponentInfo{com.netease.edu.ucmooc/com.netease.edu.ucmooc.activity.ActivityWelcome}" drawable="netease_mooc"/>
 
 </resources>
